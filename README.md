@@ -4,6 +4,6 @@ This repository contains automated tests using Python and the Pytest framework t
 # Prerequisites to Run the Tests
 To successfully run the tests, ensure the following prerequisites are met:
 
-* The E-Commerce site is up and running.
-* The site has been created using WordPress and WooCommerce.
-* The site is using the "StoreFront" theme.
+- The E-Commerce site is up and running.
+- The site has been created using WordPress and WooCommerce.
+- The site is using the "StoreFront" theme.
