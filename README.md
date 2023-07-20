@@ -1,1 +1,1 @@
-# test_with_admas
+# AUTOMATED TESTS (FE & BE) FOR AN ECOMMERCE WEBSITE
