@@ -1,1 +1,1 @@
-# RandomEmailPaawordGenerator
+# RandomEmailPasswordGenerator
